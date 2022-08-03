@@ -25,6 +25,10 @@ PATCH - використовується для застосування час�
 I had a basic knowledge of the structure of the directory tree in Unix systems and the basic commands in the terminal. 
 
 "Linux Survival" Quiz results:
+<img src="https://github.com/DiDerhalo/kottans-frontend/blob/44223680a922c9c595f8154a8b76a07861a0c842/task_linux_cli/quiz1.png" alt="screen1">
+<img src="https://github.com/DiDerhalo/kottans-frontend/blob/44223680a922c9c595f8154a8b76a07861a0c842/task_linux_cli/quiz2.png" alt="screen2">
+<img src="https://github.com/DiDerhalo/kottans-frontend/blob/44223680a922c9c595f8154a8b76a07861a0c842/task_linux_cli/quiz3.png" alt="screen3">
+<img src="https://github.com/DiDerhalo/kottans-frontend/blob/44223680a922c9c595f8154a8b76a07861a0c842/task_linux_cli/quiz4.png" alt="screen4">
 
 
 HTTP: The Protocol Every Web Developer Must Know—Part 1
