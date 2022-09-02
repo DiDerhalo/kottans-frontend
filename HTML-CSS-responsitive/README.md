@@ -30,3 +30,4 @@
 
 Screen of games:
 https://github.com/DiDerhalo/kottans-frontend/blob/cc4a6d0c8f2182c3fd431fd949bb10b59053e4fe/HTML-CSS-responsitive/XRecorder_25082022_191150.jpg
+https://github.com/DiDerhalo/kottans-frontend/blob/c07b16fef78e67c5d1cdd48a1c9325ae236f102b/HTML-CSS-responsitive/XRecorder_25082022_220953.jpg
