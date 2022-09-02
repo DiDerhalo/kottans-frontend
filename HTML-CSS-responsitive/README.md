@@ -29,5 +29,9 @@
 - wrap-reverse: Елементи переносятся до наступного рядка у зворотньому порядку.
 
 Screen of games:
+![XRecorder_25082022_191150](https://user-images.githubusercontent.com/109953894/188215538-ea07ec5c-489c-4ae2-b525-dcbb0dfc70d1.jpg)
+![XRecorder_25082022_220953](https://user-images.githubusercontent.com/109953894/188215541-2a1c72f7-e5d4-4ca4-9a9e-2ab55380f73d.jpg)
+
 https://github.com/DiDerhalo/kottans-frontend/blob/cc4a6d0c8f2182c3fd431fd949bb10b59053e4fe/HTML-CSS-responsitive/XRecorder_25082022_191150.jpg
+
 https://github.com/DiDerhalo/kottans-frontend/blob/c07b16fef78e67c5d1cdd48a1c9325ae236f102b/HTML-CSS-responsitive/XRecorder_25082022_220953.jpg
