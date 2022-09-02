@@ -27,3 +27,6 @@
 - nowrap: Кожен елемент буде розташований один за одним в одному рядку. Ширина елементів встановлюється автоматично, щоб вміститись в рядок.
 - wrap: Елементи переносятся до наступного рядка.
 - wrap-reverse: Елементи переносятся до наступного рядка у зворотньому порядку.
+
+Screen of games:
+https://github.com/DiDerhalo/kottans-frontend/blob/cc4a6d0c8f2182c3fd431fd949bb10b59053e4fe/HTML-CSS-responsitive/XRecorder_25082022_191150.jpg
