@@ -7,5 +7,5 @@ Before listening first and second weeks of course Introduction to Git and GitHub
  2.Linux Client 
  https://github.com/DiDerhalo/kottans-frontend/blob/main/task_linux_cli/README.md#linux-cli-and-http
  
- 4.HTML CSS Responsitive
+ 4.HTML CSS Responsive
  https://github.com/DiDerhalo/kottans-frontend/blob/7f0c0dac1c5798bae0be3d59fb3f64c237276354/HTML-CSS-responsitive/README.md
